@@ -1,2 +1,2 @@
 # design
-Design of the "EvtPredict" website
+Design du site web, discussion sur de nombreux aspects
