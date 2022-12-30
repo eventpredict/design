@@ -1,1 +1,1 @@
-[Evénement](model/event.md)
+[Evénement](event.md)
