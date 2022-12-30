@@ -16,7 +16,8 @@ Voici quelques livres qui pourraient vous intéresser si vous souhaitez en savoi
 
 "The Art of Prediction" de James D. Stein : Ce livre explore les différentes méthodes utilisées pour prédire l'avenir, ainsi que leurs avantages et leurs limites. Il s'adresse aux lecteurs sans connaissances préalables en mathématiques ou en statistiques.
 
-# Sites web
+# Web
 
 * https://www.futuretimeline.net 
 * https://futuur.com/ Site de pari en ligne sur des événements futurs
+* https://www.economist.com/the-world-ahead/2022/11/18/what-the-superforecasters-predict-for-major-events-in-2023?utm_medium=cpc.adword.pd&utm_source=google&ppccampaignID=18151738051&ppcadID=&utm_campaign=a.22brand_pmax&utm_content=conversion.direct-response.anonymous&gclid=Cj0KCQiAtbqdBhDvARIsAGYnXBNmH8yP6hJ8e_0d5lBvPCmJg-hUgQuXFAKKNTvWkjq7reK6W7iFnM0aArQVEALw_wcB&gclsrc=aw.ds
